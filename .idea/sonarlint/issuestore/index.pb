@@ -13,3 +13,5 @@ U
 %contracts/causality-preservation.clar,d/5/d5089cd8bc936327c91f49ea44cce32d37c6218f
 T
 $tests/causality-preservation.test.ts,a/b/ab4b59f14d9d4b6c0fb8142f107e7b5a55771298
+T
+$contracts/heat-death-prevention.clar,8/e/8e778861a2f019a799c956e9006376c0b2a60d9f
