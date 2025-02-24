@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.causality-preservation]
+path = 'contracts/causality-preservation.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.temporal-energy-redistribution]
 path = 'contracts/temporal-energy-redistribution.clar'
 clarity_version = 2
