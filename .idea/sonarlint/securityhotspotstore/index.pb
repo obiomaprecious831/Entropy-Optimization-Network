@@ -11,3 +11,5 @@ V
 ,tests/temporal-energy-redistribution.test.ts,1/9/193efe05a05805c33f1275b2edc95c532a81090e
 U
 %contracts/causality-preservation.clar,d/5/d5089cd8bc936327c91f49ea44cce32d37c6218f
+T
+$tests/causality-preservation.test.ts,a/b/ab4b59f14d9d4b6c0fb8142f107e7b5a55771298
