@@ -55,6 +55,11 @@ plan:
             path: contracts/causality-preservation.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: heat-death-prevention
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/heat-death-prevention.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: temporal-energy-redistribution
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/temporal-energy-redistribution.clar
