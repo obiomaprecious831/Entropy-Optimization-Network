@@ -50,6 +50,11 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: temporal-energy-redistribution
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/temporal-energy-redistribution.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: universal-state-tracking
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/universal-state-tracking.clar

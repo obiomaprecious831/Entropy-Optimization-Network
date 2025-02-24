@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.temporal-energy-redistribution]
+path = 'contracts/temporal-energy-redistribution.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.universal-state-tracking]
 path = 'contracts/universal-state-tracking.clar'
 clarity_version = 2
